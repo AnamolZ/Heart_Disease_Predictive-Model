@@ -31,7 +31,6 @@ Once the model is executed, it will prompt you to enter various health parameter
 
 Contributing
 Contributions are welcome to improve the heart disease prediction model. To contribute, follow these steps:
-
   Fork the repository
   Create a new branch (git checkout -b new-feature)
   Make your changes
