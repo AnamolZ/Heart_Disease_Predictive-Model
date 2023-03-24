@@ -10,8 +10,7 @@ To use this heart disease prediction model, you need to have Python installed on
 
 Clone the repository to your local machine using the following command:
 
-```bash
-Copy code
+```bash Copy code
 git clone https://github.com/username/heart-disease-prediction.git
 ```
 Navigate to the project directory and install the required dependencies using the following command:
