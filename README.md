@@ -1,9 +1,7 @@
 ## Heart Disease Prediction Model
 A machine learning model application designed to predict the likelihood of a person having heart disease based on various health parameters. The model is built using the Random Forest algorithm and trained on the Cleveland Heart Disease dataset, achieving a high level of accuracy in predicting the presence or absence of heart disease.
 
-Pre-model has practical applications in healthcare, allowing healthcare providers to assess the risk of heart disease in patients and take necessary preventive measures. Additionally, individuals can use the model to monitor their own risk factors and take proactive steps towards improving their health.
-
-The Heart Disease Prediction Model is available on GitHub and welcomes contributions from developers and researchers to improve and refine the model. The project is licensed under the GNU GENERAL PUBLIC License, and interested parties are encouraged to clone the repository and explore the codebase.
+Pre-model has practical applications in healthcare, allowing healthcare providers to assess the risk of heart disease in patients and take necessary preventive measures. Additionally, individuals can use the model to monitor their own risk factors and take proactive steps towards improving their health.The Heart Disease Prediction Model is available on GitHub and welcomes contributions from developers and researchers to improve and refine the model.
 
 ### Installation
 To use this heart disease prediction model, you need to have Python installed on your system. You can install Python from the official website (https://www.python.org/downloads/).
@@ -13,13 +11,11 @@ Clone the repository to your local machine using the following command:
 ```bash
 git clone https://github.com/username/heart-disease-prediction.git
 ```
-
-Navigate to the project directory and install the required dependencies using the following command:
+#### Navigate to the project directory and install the required dependencies using the following command:
 
 ```bash
 pip install -r requirements.txt
 ```
-
 Usage
 The heart disease prediction model can be run by executing the heart disease predictive model.ipynb file.
 
